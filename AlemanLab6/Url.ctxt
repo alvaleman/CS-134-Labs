@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=addr
+comment0.target=java.net.URL\ makeURL(java.lang.String)
+comment1.params=base\ addr
+comment1.target=java.net.URL\ makeURL(Url,\ java.lang.String)
+comment2.params=address
+comment2.target=Url(java.net.URL)
+comment3.params=Url
+comment3.target=Url(java.lang.String)
+comment4.params=context\ Url
+comment4.target=Url(Url,\ java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getHost()
+comment6.params=
+comment6.target=java.lang.String\ getPath()
+comment7.params=
+comment7.target=java.lang.String\ getProtocol()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=other
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10

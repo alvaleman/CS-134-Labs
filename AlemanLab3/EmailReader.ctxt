@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmailReader()
+comment1.params=which
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment1.text=\n\ \ Sets\ actions\ for\ each\ button\ clicked\n
+comment2.params=whichField
+comment2.target=void\ textEntered(javax.swing.JTextField)
+numComments=3

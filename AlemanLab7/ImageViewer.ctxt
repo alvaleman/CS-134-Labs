@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImageViewer()
+comment1.params=
+comment1.target=void\ buttonClicked()
+comment1.text=\r\n\ \ Imports\ picture\ once\ button\ is\ clicked\r\n
+comment2.params=mage
+comment2.target=void\ updateDisplay(squint.SImage)
+comment3.params=
+comment3.target=squint.SImage\ getImage()
+numComments=4

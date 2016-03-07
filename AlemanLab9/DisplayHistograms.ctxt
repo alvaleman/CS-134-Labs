@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=source
+comment0.target=DisplayHistograms(squint.SImage)
+comment1.params=histogram\ color
+comment1.target=squint.SImage\ drawHistogram(Histogram,\ int)
+numComments=2

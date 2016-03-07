@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=url
+comment0.target=PageInfo(Url)
+comment1.params=
+comment1.target=Url\ getUrl()
+comment2.params=
+comment2.target=void\ increaseLinksTo()
+comment3.params=
+comment3.target=void\ increaseLinksFrom()
+comment4.params=
+comment4.target=int\ linksTo()
+comment5.params=
+comment5.target=int\ linksFrom()
+comment6.params=
+comment6.target=void\ setVisited()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

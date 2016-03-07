@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=contents
+comment0.target=XMPPStanza(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ XMPPStanza\n
+comment1.params=
+comment1.target=boolean\ isPresence()
+comment1.text=\n\ Method\ that\ checks\ the\ presence\ of\ friend\ roster\n
+comment2.params=
+comment2.target=boolean\ isRoster()
+comment3.params=
+comment3.target=boolean\ isMessage()
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=java.lang.String\ getFromJid()
+comment6.params=
+comment6.target=java.lang.String\ getMessageBody()
+comment7.params=
+comment7.target=java.lang.String\ getRosterItems()
+numComments=8

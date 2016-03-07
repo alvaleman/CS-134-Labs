@@ -1,0 +1,25 @@
+#BlueJ package file
+objectbench.height=100
+objectbench.width=768
+package.editor.height=685
+package.editor.width=971
+package.editor.x=916
+package.editor.y=80
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=x-MacRoman
+target1.editor.height=889
+target1.editor.width=1021
+target1.editor.x=0
+target1.editor.y=103
+target1.height=50
+target1.name=ChatClient
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=90
+target1.x=70
+target1.y=10

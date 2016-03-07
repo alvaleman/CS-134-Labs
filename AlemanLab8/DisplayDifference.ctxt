@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=image\ image2
+comment0.target=DisplayDifference(squint.SImage,\ squint.SImage)
+comment1.params=pic\ pic2\ layer
+comment1.target=int[][]\ CalculateDiff(squint.SImage,\ squint.SImage,\ int)
+comment2.params=pic\ pic2
+comment2.target=squint.SImage\ difference(squint.SImage,\ squint.SImage)
+numComments=3

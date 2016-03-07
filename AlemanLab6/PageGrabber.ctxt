@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PageGrabber()
+comment1.params=urlToGet
+comment1.target=java.lang.String\ get(Url)
+numComments=2

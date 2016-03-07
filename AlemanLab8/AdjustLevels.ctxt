@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AdjustLevels()
+comment1.params=
+comment1.target=void\ sliderChanged()
+comment2.params=numLevels\ pic
+comment2.target=squint.SImage\ requantize(int,\ squint.SImage)
+comment3.params=numLevels\ pic\ layer
+comment3.target=int[][]\ adjustPixels(int,\ squint.SImage,\ int)
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\n\ Create\ all\ the\ GUI\ components\ and\ display\ the\ login\ components\n
+comment1.params=which
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment1.text=\n\ When\ the\ button\ is\ clicked,\ interact\ with\ the\ POP\ server\ to\n\ log\ in,\ log\ out,\ or\ access\ the\ requested\ message.\n
+comment2.params=
+comment2.target=void\ menuItemSelected()
+comment3.params=
+comment3.target=MessageMenu()
+numComments=4

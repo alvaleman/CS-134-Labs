@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UrlList()
+comment1.params=newUrl\ existing
+comment1.target=UrlList(Url,\ UrlList)
+comment2.params=
+comment2.target=boolean\ empty()
+comment3.params=item
+comment3.target=boolean\ contains(Url)
+comment4.params=
+comment4.target=Url\ getFirst()
+comment5.params=
+comment5.target=UrlList\ removeFirst()
+numComments=6

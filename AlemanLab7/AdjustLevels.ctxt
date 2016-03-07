@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AdjustLevels()
+comment1.params=
+comment1.target=void\ sliderChanged()
+comment2.params=brightness\ pixels\ layer
+comment2.target=int[][]\ adjustPixel(int,\ squint.SImage,\ int)
+numComments=3

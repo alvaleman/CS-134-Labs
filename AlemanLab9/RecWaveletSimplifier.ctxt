@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ toString()
+comment1.params=shades
+comment1.target=int[][]\ encodePixels(int[][])
+comment2.params=shades
+comment2.target=int[][]\ decodePixels(int[][])
+comment3.params=shades
+comment3.target=int[][]\ leftHalf(int[][])
+comment4.params=src\ dest
+comment4.target=int[][]\ paste(int[][],\ int[][])
+numComments=5

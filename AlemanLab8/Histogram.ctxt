@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=image\ layer
+comment0.target=Histogram(squint.SImage,\ int)
+comment1.params=shade
+comment1.target=int\ frequency(int)
+numComments=2

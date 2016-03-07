@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimplifierDriver()
+comment1.params=which
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+numComments=2

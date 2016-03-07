@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImageSimplifier()
+comment1.params=original
+comment1.target=squint.SImage\ encode(squint.SImage)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=original
+comment3.target=squint.SImage\ decode(squint.SImage)
+comment4.params=shades
+comment4.target=int[][]\ encodePixels(int[][])
+comment5.params=shades
+comment5.target=int[][]\ decodePixels(int[][])
+comment6.params=orig\ layer
+comment6.target=int[][]\ encodeLayer(squint.SImage,\ int)
+comment7.params=orig\ layer
+comment7.target=int[][]\ decodeLayer(squint.SImage,\ int)
+numComments=8

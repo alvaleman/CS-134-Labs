@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImageViewer()
+comment1.params=im
+comment1.target=void\ setImage(squint.SImage)
+comment2.params=newImage
+comment2.target=void\ updateImage(squint.SImage)
+comment3.params=
+comment3.target=squint.SImage\ getImage()
+comment4.params=
+comment4.target=squint.SImage\ getOriginal()
+comment5.params=which
+comment5.target=void\ buttonClicked(javax.swing.JButton)
+comment6.params=pic
+comment6.target=squint.SImage\ expand(squint.SImage)
+comment7.params=im\ layer
+comment7.target=int[][]\ expandLayer(squint.SImage,\ int)
+comment8.params=shades
+comment8.target=int\ getMin(int[][])
+comment9.params=shades
+comment9.target=int\ getMax(int[][])
+numComments=10

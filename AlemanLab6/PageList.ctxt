@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PageList()
+comment1.params=info\ existing
+comment1.target=PageList(PageInfo,\ PageList)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=page
+comment3.target=PageInfo\ get(Url)
+comment4.params=
+comment4.target=int\ size()
+comment5.params=
+comment5.target=int\ totalLinksTo()
+comment6.params=
+comment6.target=int\ totalLinksFrom()
+comment7.params=
+comment7.target=PageInfo\ mostReferenced()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LoginWindow()
+comment1.params=
+comment1.target=void\ buttonClicked()
+comment1.text=\n\ \ when\ authenticate\ button\ is\ clicked,\ "login\ rejected"\ will\ appear\n
+comment2.params=
+comment2.target=void\ textEntered()
+comment2.text=\n\ \ When\ text\ is\ entered\ into\ either\ password\ or\ username\ and\ the\ return\ button\ on\ the\ keyboard\n\ \ is\ pressed,\ "Login\ Accepted\!"\ will\ appear.\n
+comment3.params=
+comment3.target=void\ menuItemSelected()
+numComments=4

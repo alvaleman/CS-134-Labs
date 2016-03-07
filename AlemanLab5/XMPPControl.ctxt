@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=XMPPControl()
+comment1.params=Which
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment1.text=\n\ \ Sets\ actions\ for\ each\ button\ clicked\n
+comment2.params=whichField
+comment2.target=void\ textEntered(javax.swing.JTextField)
+comment2.text=\n\ \ Respond\ to\ Enter\ key\n
+comment3.params=
+comment3.target=void\ connectionClosed()
+comment4.params=
+comment4.target=void\ dataAvailable()
+comment5.params=JabberID
+comment5.target=void\ getChatWindow(java.lang.String)
+numComments=6

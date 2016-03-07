@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=im1\ im2
+comment0.target=DisplayDifference(squint.SImage,\ squint.SImage)
+comment1.params=im1\ im2
+comment1.target=squint.SImage\ difference(squint.SImage,\ squint.SImage)
+comment2.params=im1\ im2\ layer
+comment2.target=int[][]\ layerDifference(squint.SImage,\ squint.SImage,\ int)
+numComments=3

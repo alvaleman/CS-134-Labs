@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=sender\ recipient\ toGoogle
+comment0.target=ChatWindow(java.lang.String,\ java.lang.String,\ squint.GTalkConnection)
+comment0.text=\n\ Constructs\ main\ window\ and\ GUI\ objects\n
+comment1.params=
+comment1.target=void\ textEntered()
+comment2.params=incomingmessage
+comment2.target=void\ displayIncomingMessage(java.lang.String)
+numComments=3

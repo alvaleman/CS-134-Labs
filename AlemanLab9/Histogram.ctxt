@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=source
+comment0.target=Histogram(int[][])
+comment1.params=shade
+comment1.target=int\ frequency(int)
+comment2.params=
+comment2.target=int\ getMax()
+comment3.params=
+comment3.target=int\ getMin()
+comment4.params=
+comment4.target=int\ getHuffmanSize()
+comment4.text=\ Returns\ the\ number\ of\ BITS\ required\ to\ Huffman\ encode\ the\ entire\n\ \ 2D\ array\ for\ which\ this\ histogram\ was\ computed.\n
+comment5.params=Weights\ remaining
+comment5.target=int\ findMin(int[],\ int)
+numComments=6

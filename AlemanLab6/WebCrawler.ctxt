@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WebCrawler()
+comment0.text=\r\n\ \ Produce\ an\ interface\ that\ enables\ user\ to\ activate\ or\ suspend\ the\ search\ for\r\n\ \ pages\ and\ displays\ statistics\ when\ the\ search\ is\ paused\ or\ complete.\r\n
+comment1.params=which
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=void\ updateStats()
+comment4.params=
+comment4.target=void\ visitOnePage()
+comment5.params=source\ site
+comment5.target=void\ getUrls(java.lang.String,\ Url)
+comment6.params=newUrl
+comment6.target=void\ updatePagesFound(Url)
+comment7.params=newUrl
+comment7.target=void\ updateHostsFound(Url)
+comment8.params=
+comment8.target=void\ windowClosing()
+numComments=9

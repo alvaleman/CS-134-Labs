@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=row\ column\ text
+comment0.target=PuzzleButton(int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getRow()
+comment2.params=
+comment2.target=int\ getColumn()
+comment3.params=
+comment3.target=java.lang.String\ getLetter()
+comment4.params=other
+comment4.target=boolean\ isAdjacentTo(PuzzleButton)
+numComments=5

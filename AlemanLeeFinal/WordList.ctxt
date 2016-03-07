@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WordList()
+comment1.params=word\ existing
+comment1.target=WordList(java.lang.String,\ WordList)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=addWord
+comment3.target=void\ add(java.lang.String)
+comment4.params=word
+comment4.target=boolean\ contains(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=word
+comment6.target=int\ determineScore(java.lang.String)
+numComments=7
